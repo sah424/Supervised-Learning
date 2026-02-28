@@ -6,3 +6,4 @@ Topics I Covered
 > KNN
 > Decision Tree Classification
 > Radom Forest
+> Support Vector Machine
